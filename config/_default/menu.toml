@@ -7,14 +7,17 @@
 #icon = "home"
 #newtab = true
 
+# Github
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+# url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/lucaxgomex"
 
 [social.params]
 icon = "brand-github"
 
+# Twitter
 [[social]]
 identifier = "twitter"
 name = "Twitter"
