@@ -6,15 +6,15 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2020
-customText = ""
+customText = "Website focused on professional purposes only."
 
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🇨🇦"
-subtitle = "Software Engineer"
+# emoji = "🇨🇦"
+subtitle = "Software Engineer and Cybersecurity Enthusiast"
 
 [sidebar.avatar]
 enabled = true
