@@ -1,5 +1,5 @@
 ---
-title: Math Typesetting
+title: Access Hacker Mode
 description: Math typesetting using KaTeX
 date: 2023-08-24 00:00:00+0000
 math: true
