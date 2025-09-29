@@ -5,7 +5,7 @@ layout: "skills"
 slug: "skills"
 menu:
     main:
-        weight: 2
+        weight: 9
         params: 
             icon: archives
 ---

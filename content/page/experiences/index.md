@@ -1,11 +1,11 @@
 ---
-title: "Education"
+title: "Experiences"
 date: 2022-03-06
-layout: "education"
-slug: "education"
+layout: "experiences"
+slug: "experiences"
 menu:
     main:
-        weight: 2
+        weight: 6
         params: 
             icon: archives
 ---

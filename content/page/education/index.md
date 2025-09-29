@@ -1,11 +1,11 @@
 ---
-title: "Skills"
+title: "Education"
 date: 2022-03-06
-layout: "skills"
-slug: "skills"
+layout: "education"
+slug: "education"
 menu:
     main:
-        weight: 2
+        weight: 5
         params: 
             icon: archives
 ---

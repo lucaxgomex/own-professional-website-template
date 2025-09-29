@@ -1,11 +1,11 @@
 ---
-title: "Languages"
+title: "Strenghts"
 date: 2022-03-06
-layout: "languages"
-slug: "languages"
+layout: "strenghts"
+slug: "strenghts"
 menu:
     main:
-        weight: 2
+        weight: 10
         params: 
             icon: archives
 ---

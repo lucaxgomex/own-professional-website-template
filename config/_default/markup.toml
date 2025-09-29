@@ -12,7 +12,7 @@ block = [['\[', '\]'], ['$$', '$$']]
 inline = [['\(', '\)']]
 
 [tableOfContents]
-endLevel = 7
+endLevel = 10
 ordered = true
 startLevel = 1
 

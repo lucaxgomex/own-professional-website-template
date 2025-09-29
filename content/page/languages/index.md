@@ -1,11 +1,11 @@
 ---
-title: "Skills"
+title: "Languages"
 date: 2022-03-06
-layout: "skills"
-slug: "skills"
+layout: "languages"
+slug: "languages"
 menu:
     main:
-        weight: 2
+        weight: 7
         params: 
             icon: archives
 ---
