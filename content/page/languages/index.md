@@ -5,7 +5,7 @@ layout: "languages"
 slug: "languages"
 menu:
     main:
-        weight: 7
+        weight: 8
         params: 
             icon: archives
 ---

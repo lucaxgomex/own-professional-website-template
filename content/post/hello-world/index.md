@@ -11,7 +11,7 @@ date: 2022-03-06 00:00:00+0000
 image: cover.png
 
 categories:
-    - Example Category
+    - example-category
 
 tags:
     - Objective Tag
