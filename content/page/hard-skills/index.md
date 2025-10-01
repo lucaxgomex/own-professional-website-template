@@ -13,57 +13,6 @@ categories:
 
 ---
 
-<details>
-  <summary>
-    <h3>
-        Programming Languages
-    </h3>
-  </summary>
-  <center>
-        <a href="https://www.python.org/doc/" target=_blank>
-            <br>
-                Python
-            </br>
-        </a>
-        <a href="https://developer.mozilla.org/pt-BR/docs/conflicting/Learn_web_development/Core/Scripting_785964b4c0711553d2bf3130baef052c6d78a03b4ce249eeb9d1ce2be1e3c308" target=_blank>
-            <br>
-                JavaScript
-            </br>
-        </a>
-        <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target=_blank>
-            <br>
-                TypeScript
-            </br>
-        </a>
-        <a href="https://www.ruby-lang.org/en/documentation/" target=_blank>
-            <br>
-                Ruby
-            </br>
-        </a>
-        <a href="https://docs.julialang.org/en/v1/" target=_blank>
-            <br>
-                Julia
-            </br>
-        </a>
-        <a href="https://www.bloodshed.net/Free-compilers-list" target=_blank>
-            <br>
-                C++
-            </br>
-        </a>
-        <a href="https://go.dev/doc/" target=_blank>
-            <br>
-                GoLang
-            </br>
-        </a>
-        <a href="https://dart.dev/overview" target=_blank>
-            <br>
-                Dart
-            </br>
-        </a>
-    </center>
-</details>
-
-
 <div>
     <h3>
         Programming Languages

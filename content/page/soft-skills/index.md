@@ -1,13 +1,16 @@
 ---
-title: "Strenghts"
+title: "Soft Skills"
 date: 2022-03-06
-layout: "strenghts"
-slug: "strenghts"
+layout: "skills"
+slug: "soft-skills"
 menu:
     main:
-        weight: 11
+        weight: 10
         params: 
             icon: archives
+categories:
+    - test-category
+
 ---
 
 > Good communication
