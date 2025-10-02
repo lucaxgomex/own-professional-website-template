@@ -1,5 +1,6 @@
 ---
 title: Links
+image: cover.jpg
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
@@ -41,4 +42,4 @@ comments: false
 
 <!-- https://www.iconfinder.com/search?q=microsoft -->
 
-Here is where you can find me:
+In this section, you'll be able to access external resources, including professional social media profiles, personal websites, and portfolios, to further explore expertise and network. Here is where you can find me:

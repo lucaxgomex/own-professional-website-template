@@ -1,14 +1,17 @@
 ---
 title: "Experiences"
+image: cover.jpg
 date: 2022-03-06
 layout: "experiences"
 slug: "experiences"
 menu:
     main:
-        weight: 7
+        weight: 8
         params: 
             icon: archives
 ---
+
+In this section, Experiences: Learn about past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.
 
 <div>
     <h1>

@@ -1,17 +1,20 @@
 ---
 title: "Hard Skills"
+image: cover.jpg
 date: 2022-03-06
 layout: "skills"
 slug: "hard-skills"
 menu:
     main:
-        weight: 8
+        weight: 9
         params: 
             icon: archives
 categories:
     - test-category
 
 ---
+
+In this section, Hard Skills: Find a comprehensive list of technical skills and proficiencies, from software tools to specialized industry practices, that define professional capabilities.
 
 <div>
     <h3>

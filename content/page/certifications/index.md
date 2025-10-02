@@ -1,15 +1,17 @@
 ---
 title: "Certifications"
+image: cover.jpg
 date: 2022-03-06
 layout: "certifications"
 slug: "certifications"
 menu:
     main:
-        weight: 5
+        weight: 6
         params: 
             icon: archives
 ---
 
+In this section, Certifications: Discover a list of professional certifications that showcase qualifications and adherence to industry standards, ensuring expertise and credibility.
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
 
