@@ -5,7 +5,7 @@ layout: "skills"
 slug: "soft-skills"
 menu:
     main:
-        weight: 10
+        weight: 11
         params: 
             icon: archives
 categories:

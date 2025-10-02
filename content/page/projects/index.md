@@ -1,11 +1,11 @@
 ---
 title: "Projects"
 date: 2022-03-06
-layout: "archives"
-slug: "archives"
+layout: "projects"
+slug: "projects"
 menu:
     main:
-        weight: 9
+        weight: 10
         params: 
             icon: archives
 ---

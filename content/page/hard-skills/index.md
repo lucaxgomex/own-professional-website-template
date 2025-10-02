@@ -5,7 +5,7 @@ layout: "skills"
 slug: "hard-skills"
 menu:
     main:
-        weight: 9
+        weight: 8
         params: 
             icon: archives
 categories:
