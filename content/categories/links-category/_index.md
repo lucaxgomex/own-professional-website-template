@@ -1,7 +1,7 @@
 ---
-title: Skills
+title: Links
 description: A description of this category
-image:
+image: 
 
 # Badge style
 style:
