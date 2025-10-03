@@ -10,11 +10,10 @@ menu:
         params: 
             icon: archives
 categories:
-    - test-category
-
+    - skills-category
 ---
 
-In this section, Hard Skills: Find a comprehensive list of technical skills and proficiencies, from software tools to specialized industry practices, that define professional capabilities.
+In this section, it is possible to find a comprehensive list of my technical skills and proficiencies, from software tools to specialized industry practices, that define professional capabilities.
 
 <div>
     <h3>

@@ -9,6 +9,8 @@ menu:
         weight: 12
         params: 
             icon: archives
+categories:
+    - skills-category
 ---
 
 In this section, you'll be able to gain insight into my personal strengths and attributes that contribute to effective teamwork, leadership, and problem-solving in various business contexts.
