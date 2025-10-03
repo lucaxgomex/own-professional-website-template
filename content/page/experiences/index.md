@@ -11,7 +11,7 @@ menu:
             icon: archives
 ---
 
-In this section, Experiences: Learn about past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.
+In this section, you'll be able to learn about my past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.
 
 <div>
     <h1>

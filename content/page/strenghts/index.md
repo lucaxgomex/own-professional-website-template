@@ -11,7 +11,7 @@ menu:
             icon: archives
 ---
 
-In this section, Strengths: Gain insight into personal strengths and attributes that contribute to effective teamwork, leadership, and problem-solving in various business contexts.
+In this section, you'll be able to gain insight into my personal strengths and attributes that contribute to effective teamwork, leadership, and problem-solving in various business contexts.
 
 > Good communication
 

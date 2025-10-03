@@ -11,4 +11,4 @@ menu:
             icon: archives
 ---
 
-In this section, you'll be able to explore a collection of insightful articles that delve into various industry topics, offering valuable knowledge and perspectives.
+In this section, you'll be able to explore a collection of insightful articles written by me that delve into various industry topics, offering valuable knowledge and perspectives.

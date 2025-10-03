@@ -14,22 +14,22 @@ links:
 
   - title: E-mail
     description: GitHub is the world's largest software development platform.
-    website: https://github.com/lucaxgomex
+    website: mailto:lucasgomes.oli@outlook.com
     image: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-256.png
 
   - title: Medium
     description: GitHub is the world's largest software development platform.
-    website: https://github.com/lucaxgomex
+    website: https://medium.com/@gomeslucastech
     image: https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png
 
   - title: DEV.to
     description: GitHub is the world's largest software development platform.
-    website: https://github.com/lucaxgomex
+    website: https://dev.to/
     image: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-256.png
 
   - title: HackerRank
     description: GitHub is the world's largest software development platform.
-    website: https://github.com/lucaxgomex
+    website: https://www.hackerrank.com/
     image: https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/670ee06a416476e6459b791a_LogoDark.svg 
 menu:
     main: 
