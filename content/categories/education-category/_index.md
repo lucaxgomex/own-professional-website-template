@@ -1,5 +1,5 @@
 ---
-title: Skills
+title: Education
 description: A description of this category
 image:
 

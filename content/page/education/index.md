@@ -9,9 +9,11 @@ menu:
         weight: 7
         params: 
             icon: archives
+categories:
+    - education-category
 ---
 
-In this section, Education: View details of academic achievements, including degrees, institutions, and specialized training, reflecting a commitment to continuous learning.
+In this section, you'll be able to view details of my academic achievements, including degrees, institutions, and specialized training, reflecting a commitment to continuous learning.
 
 <div>
     <center>

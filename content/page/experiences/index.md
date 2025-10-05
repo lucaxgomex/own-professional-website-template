@@ -9,6 +9,8 @@ menu:
         weight: 8
         params: 
             icon: archives
+categories:
+  - experiences-category
 ---
 
 In this section, you'll be able to learn about my past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.

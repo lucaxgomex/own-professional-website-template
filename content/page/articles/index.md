@@ -9,6 +9,8 @@ menu:
         weight: 5
         params: 
             icon: archives
+categories:
+    - articles-category
 ---
 
 In this section, you'll be able to explore a collection of insightful articles written by me that delve into various industry topics, offering valuable knowledge and perspectives.
