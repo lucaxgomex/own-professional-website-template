@@ -1,5 +1,6 @@
 ---
 title: "Search"
+image: cover.jpg
 slug: "search"
 layout: "search"
 outputs:

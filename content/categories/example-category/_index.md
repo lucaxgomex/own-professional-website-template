@@ -1,10 +1,10 @@
 ---
-title: Example Category
+title: Objective
 description: A description of this category
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#a606cf"
     color: "#fff"
 ---
