@@ -1,6 +1,6 @@
 ---
 title: "Languages"
-image: cover.jpg
+image: Flag_of_Canada_(Pantone).svg
 date: 2022-03-06
 layout: "languages"
 slug: "languages"
@@ -17,12 +17,12 @@ categories:
 
 In this section, it is possible to review my language proficiency, detailing fluency in multiple languages, which facilitates effective communication in diverse environments.
 
-<article>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg/960px-Flag_of_the_United_States_%28Web_Colors%29.svg.png'>
-</article>
+> ### English | B2 Level
 
-![English](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg/960px-Flag_of_the_United_States_%28Web_Colors%29.svg.png)
+> ### Spanish | B2 Level
 
-![English](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png?20160610210450)
+> ### French | A1 Level
 
-![English](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Flag_of_Germany_%28RGB%29.svg/960px-Flag_of_Germany_%28RGB%29.svg.png)
+> ### German | A1 Level
+
+> ### Libras (Língua Brasileira de Sinais) | Basic Level

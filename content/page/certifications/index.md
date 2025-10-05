@@ -9,9 +9,6 @@ menu:
         weight: 6
         params: 
             icon: archives
-categories:
-    - education-category
-    - certifications-category
 ---
 
 In this section, you'll be able to discover a list of professional certifications that showcase qualifications and adherence to industry standards, ensuring expertise and credibility.

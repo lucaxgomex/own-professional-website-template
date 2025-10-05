@@ -22,8 +22,11 @@ In this section, you'll be able to view details of my academic achievements, inc
         </a>
     </center>
     <h1>
-        Systems Analysis and Development | B. Tech.
+        Systems Analysis and Development
     </h1>
+    <p>
+        B. Tech.
+    </p>
     <p>
         February/2019 - July/2025
     </p>
