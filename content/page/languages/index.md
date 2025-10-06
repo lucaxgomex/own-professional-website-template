@@ -17,12 +17,12 @@ categories:
 
 In this section, it is possible to review my language proficiency, detailing fluency in multiple languages, which facilitates effective communication in diverse environments.
 
-> ### English | B2 Level
+> ### English | B2
 
-> ### Spanish | B2 Level
+> ### Spanish | B2
 
-> ### French | A1 Level
+> ### French | A1
 
-> ### German | A1 Level
+> ### German | A1
 
-> ### Libras (Língua Brasileira de Sinais) | Basic Level
+> ### Libras (Brazilian Sign Languages) | Basic Level
