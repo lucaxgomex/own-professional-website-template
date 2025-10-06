@@ -16,122 +16,134 @@ categories:
 In this section, it is possible to find a comprehensive list of my technical skills and proficiencies, from software tools to specialized industry practices, that define professional capabilities.
 
 > ### Programming Languages
-<ul>
-    <li>
-        <a href="https://www.bloodshed.net/Free-compilers-list" target=_blank>
-            C++;
-        </a>
-    </li>
-    <li>
-        <a href="https://dart.dev/overview" target=_blank>
-            Dart;
-        </a>
-    </li>
-    <li>
-        <a href="https://go.dev/doc/" target=_blank>
-            GoLang;
-        </a>
-    </li>
-    <li>
-        <a href="https://developer.mozilla.org/pt-BR/docs/conflicting/Learn_web_development/Core/Scripting_785964b4c0711553d2bf3130baef052c6d78a03b4ce249eeb9d1ce2be1e3c308" target=_blank>
-            JavaScript;
-        </a>
-    </li>
-    <li>
-        <a href="https://www.ruby-lang.org/en/documentation/" target=_blank>
-            Julia;
-        </a>
-    </li>
-    <li>
-        <a href="https://www.python.org/doc/" target=_blank>
-            Python;
-        </a>
-    </li>
-    <li>
-        <a href="https://guides.rubygems.org/" target=_blank>
-            Ruby;
-        </a>
-    </li>
-    <li>
-        <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target=_blank>
-            TypeScript.
-        </a>
-    </li>
-</ul>
-
-> ### Database
-<ul>
-    <li>
-        <a href="https://www.mongodb.com/products/platform" target=_blank>
-            MongoDB;
-        </a>
-    </li>
-    <li>
-        <a href="https://www.postgresql.org/" target=_blank>
-            PostgreSQL;
-        </a>
-    </li>
-    <li>
-        <a href="https://supabase.com/docs" target=_blank>
-            Supabase.
-        </a>
-    </li>
-</ul>
-
-> ### Frontend Tools
-<ul>
-    <li>
-        <a href="https://flutter.dev/development" target=_blank>
-            Flutter;
-        </a>
-    </li>
-    <li>
-        <a href="https://www.flutterflow.io/product" target=_blank>
-            FlutterFlow;
-        </a>
-    </li>
-    <li>
-        <a href="https://gohugo.io/configuration/all/" target=_blank>
-            Hugo Framework;
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/topics/jekyll-theme" target=_blank>
-            Jekyll Framework;
-        </a>
-    </li>
-    <li>
-        <a href="https://dev.to/t/react" target=_blank>
-            React;
-        </a>
-    </li>
-    <li>
-        <a href="https://dev.to/t/react" target=_blank>
-            React Native;
-        </a>
-    </li>
-    <li>
-        <a href="https://svelte.dev/docs/svelte/overview" target=_blank>
-            Svelte;
-        </a>
-    </li>
-    <li>
-        <a href="https://vuejs.org/ecosystem/themes.html" target=_blank>
-            Vue.js.
-        </a>
-    </li>
-</ul>
-
-> ### Frontend Tools
-<ul>
-    <li>
-        <a href="https://www.djangoproject.com/start/overview/" target=_blank>
-            Django
-        </a>
-    </li>
-</ul>
 <div>
     <center>
+        <a href="https://www.python.org/doc/" target=_blank>
+            <img src="https://www.python.org/static/img/python-logo.png" width="250" height="250" alt="Python">
+            <br>
+                Python
+            </br>
+        </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/conflicting/Learn_web_development/Core/Scripting_785964b4c0711553d2bf3130baef052c6d78a03b4ce249eeb9d1ce2be1e3c308" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="250" height="250" alt="JavaScript">
+            <br>
+                JavaScript
+            </br>
+        </a>
+        <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" width="250" height="250 alt="TypeScript">
+            <br>
+                TypeScript
+            </br>
+        </a>
+        <a href="https://www.ruby-lang.org/en/documentation/" target=_blank>
+            <img src="https://julialang.org/assets/infra/logo.svg" width="250" height="250" alt="TypeScript">
+            <br>
+                Julia
+            </br>
+        </a>
+        <a href="https://www.bloodshed.net/Free-compilers-list" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="250" height="250" alt="C++">
+            <br>
+                C++
+            </br>
+        </a>
+        <a href="https://go.dev/doc/" target=_blank>
+            <img src="https://go.dev/images/go-logo-white.svg" width="250" height="250" alt="TypeScript">
+            <br>
+                GoLang
+            </br>
+        </a>
+        <a href="https://dart.dev/overview" target=_blank>
+            <img src="https://dart.dev/assets/img/logo/dart-192.svg" width="250" height="250" alt="TypeScript">
+            <br>
+                Dart
+            </br>
+        </a>
+    </center>
+</div>
+
+> ### Database
+<div>
+    <center>
+        <a href="https://www.mongodb.com/products/platform" target=_blank>
+            <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="250" height="250" alt="Flutter">
+            <br>
+                MongoDB
+            </br>
+        </a>
+        <a href="https://www.postgresql.org/" target=_blank>
+            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="250" height="250" alt="Flutter">
+            <br>
+                PostgreSQL
+            </br>
+        </a>
+        <a href="https://www.postgresql.org/" target=_blank>
+            <img src="https://www.peaknetworks.com/user/pages/06.server-cloud/18.apps/04.supabase/supabase.png" width="250" height="250" alt="Supabase">
+            <br>
+                Supabase
+            </br>
+        </a>
+    </center>
+</div>
+
+> ### Frontend Tools
+<div>
+    <center>
+        <a href="https://flutter.dev/development" target=_blank>
+            <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-white.ec64036b4eacc9f3fd73.svg" width="250" height="250" alt="Flutter">
+            <br>
+                Flutter
+            </br>
+        </a>
+        <a href="https://www.flutterflow.io/product" target=_blank>
+            <img src="https://cdn.prod.website-files.com/66b33f0fd430d8b41d25ad4c/66cb83d8d7c63944199bfbf3_PrimaryLogo%20-%20Horizontal.svg" width="250" height="250" alt="FlutterFlow">
+            <br>
+                FlutterFlow
+            </br>
+        </a>
+        <a href="https://gohugo.io/configuration/all/" target=_blank>
+            <img src="https://gohugo.io/images/hugo-logo-wide.svg" width="250" height="250" alt="Hugo Framework">
+            <br>
+                Hugo Framework
+            </br>
+        </a>
+        <a href="https://github.com/topics/jekyll-theme" target=_blank>
+            <img src="https://jekyllrb.com/img/logo-2x.png" width="250" height="250" alt="Jekyll Framework">
+            <br>
+                Jekyll Framework
+            </br>
+        </a>
+        <a href="https://dev.to/t/react" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="250" height="250" alt="React">
+            <br>
+                React/React Native
+            </br>
+        </a>
+        <a href="https://svelte.dev/docs/svelte/overview" target=_blank>
+            <img src="https://sourcebae.com/blog/wp-content/uploads/2023/08/9969f494-sveltelogo.png" width="250" height="250" alt="Svelte">
+            <br>
+                Svelte
+            </br>
+        </a>
+        <a href="https://vuejs.org/ecosystem/themes.html" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" width="250" height="250" alt="Vue.js">
+            <br>
+                Vue.js
+            </br>
+        </a>
+    </center>
+</div>
+
+> ### Frontend Tools
+<div>
+    <center>
+        <a href="https://www.djangoproject.com/start/overview/" target=_blank>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" width="250" height="250" alt="Django">
+            <br>
+                Django
+            </br>
+        </a>
         <a href="https://expressjs.com/en/advanced/security-updates.html" target=_blank>
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="250" height="250" alt="Express.js">
             <br>
