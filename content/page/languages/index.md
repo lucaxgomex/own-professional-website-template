@@ -25,4 +25,4 @@ In this section, it is possible to review my language proficiency, detailing flu
 
 > ### German | A1
 
-> ### Libras (Língua Brasileira de Sinais) | Basic Level
+> ### Libras (Brazilian Sign Languages) | Basic Level
