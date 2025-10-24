@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2020
-customText = "Website focused on professional purposes only."
+customText = "Number of visitors until now: 789"
 
 [dateFormat]
 published = "Jan 02, 2006"
