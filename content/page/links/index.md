@@ -7,7 +7,7 @@ links:
     image: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png
 
   - title: LinkedIn
-    website: https://github.com/lucaxgomex
+    website: https://www.linkedin.com/in/lucas-gomes-7a6a091b4
     image: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png
 
   - title: E-mail
@@ -23,7 +23,7 @@ links:
     image: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-256.png
 
   - title: HackerRank
-    website: https://www.hackerrank.com/
+    website: https://www.hackerrank.com/profile/hexthersync32
     image: https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/670ee06a416476e6459b791a_LogoDark.svg 
 menu:
     main: 
