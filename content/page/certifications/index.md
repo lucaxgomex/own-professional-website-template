@@ -29,8 +29,6 @@ To use this feature, the image must be in the same directory as the Markdown fil
 ![Image 2](2.jpg)
 ``` -->
 
-![XIX Olímpiada Brasileira de Astronomia e Astronáutica | October 1st, 2016](img/01.png) 
-
 ![Treinamento Atitude Mental Positiva | August 3th, 2019](img/02.png) 
 
 ![Treinamento O Poder do Hábito | September 14th, 2019](img/03.png) 

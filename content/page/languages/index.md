@@ -1,6 +1,6 @@
 ---
 title: "Languages"
-image: Flag_of_Canada_(Pantone).svg
+image: flag.svg
 date: 2022-03-06
 layout: "languages"
 slug: "languages"
@@ -17,12 +17,12 @@ categories:
 
 In this section, it is possible to review my language proficiency, detailing fluency in multiple languages, which facilitates effective communication in diverse environments.
 
-> ### English | B2
+> English: B1 - Threshold
 
-> ### Spanish | B2
+> Spanish: B2 - Vantage
 
-> ### French | A1
+> French: A1 - Breakthrough
 
-> ### German | A1
+> German: A1 - Breakthrough
 
-> ### Libras (Brazilian Sign Languages) | Basic Level
+> Libras (Brazilian Sign Languages): Basic Level
