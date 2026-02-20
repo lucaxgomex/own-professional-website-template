@@ -1,6 +1,6 @@
 ---
-title: Certifications
-description: A description of this category
+title: Objective
+description: This is the Objective Category.
 image:
 
 # Badge style

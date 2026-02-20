@@ -30,6 +30,10 @@ links:
     description: '#go #golang #hugo #hugo-framework #sass #javascript'
     website: https://github.com/lucaxgomex/lunixgo-website-template
 
+  - title: Python Keylogger
+    description: '#python #cybersecurity #security #keylogger #pynput'
+    website: https://github.com/lucaxgomex/python-keylogger
+
 categories:
     - projects-category
 ---
