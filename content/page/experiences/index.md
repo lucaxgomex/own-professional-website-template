@@ -18,15 +18,12 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Toinho Atacadista
 
 <div>
+    <b>Position:</b> Stocktaker
+    <br>
+    <b>Period of Activity:</b> April/2016 - June/2018
     <p>
-        <b>Period of Activity:</b> April/2016 - June/2018
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Stocktaker
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
         <li>Receipt of products from the distributor;</li>
         <li>Organization of products according to their classification;</li>
@@ -50,15 +47,12 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Private Tuition
 
 <div>
+    <b>Position:</b> Mathematics and Essay Teacher
+    <br>
+    <b>Period of Activity:</b> August/2018 - November/2018
     <p>
-        <b>Period of Activity:</b> August/2018 - November/2018
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Mathematics and Essay Teacher
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
         <li>Introduction to logical thinking and abstraction of mathematical concepts;</li>
         <li>Review of basic operations;</li>
@@ -86,15 +80,12 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Quality Mais Service
 
 <div>
+    <b>Position:</b> Contract Analyst
+    <br>
+    <b>Period of Activity:</b> November/2019 - April/2020
     <p>
-        <b>Period of Activity:</b> November/2019 - April/2020
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Contract Analyst
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
         <li>Analysis of customer contracts in the payroll loan segment;</li>
         <li>Entering all data into the internal business system and monitoring it.</li>
@@ -114,15 +105,14 @@ In this section, you'll be able to learn about my past professional roles, highl
 # ORA Serviços de Telecomunicações Ltda.
 
 <div>
+    <b>Position:</b> Network Technical Support
+    <br>
+    <b>Period of Activity:</b> March/2021 - May/2021
+    <br>
+    <b>Addictional Observation:</b> Internship
     <p>
-        <b>Period of Activity:</b> March/2021 - May/2021
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Network Technical Support
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
         <li>Assignment to the Residential Customer Service department, through which it was possible to identify customer issues involving the connectivity of their respective devices;</li>
         <li>Handling of open calls through the call center;</li>
@@ -136,10 +126,10 @@ In this section, you'll be able to learn about my past professional roles, highl
             Used tools:
         </b>
         <ul>
+            <li>Administrator access for routers;</li>
+            <li>AnyDesk;</li>
             <li>GLPI;</li>
-            <li>AnyDesk</li>
-            <li>PuTTY;</li>
-            <li>Acesso via administrador para roteadores.</li>
+            <li>PuTTY.</li>
         </ul>
     </p>
 <div>
@@ -149,18 +139,18 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Construtora Andrade Júnior
 
 <div>
+    <b>Position:</b> Administrative Assistant
+    <br>
+    <b>Period of Activity:</b> July/2021
+    <br>
+    <b>Addictional Observation:</b> Trial Period
     <p>
-        <b>Period of Activity:</b> July/2021
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Administrative Assistant
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
         <li>Designation of call reception for the extensions of the requested team of architects;</li>
         <li>Investigation of the cost of inputs needed for work on the internal corporate system;</li>
+        <li>Technical repair of incidents involving the company's machines, when requested;</li>
         <li>Filling out spreadsheets using documents sent in advance by the team of architects, filled with the values relating to the cost of the works.</li>
     </ul>
 <div>
@@ -170,51 +160,54 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Empreendimentos Farmacêuticos Globo Ltda.
 
 <div>
+    <b>Position:</b> Auxiliar de Suporte Técnico Pleno
+    <br>
+    <b>Period of Activity:</b> January/2022 - February/2026
     <p>
-        <b>Period of Activity:</b> January/2022 - February/2026
+        <b>Activities:</b>
     </p>
-    <p>
-        <b>Position:</b> Auxiliar de Suporte Técnico Pleno
-    </p>
-    <b>
-        Activities:
-    </b>
     <ul>
-        <li>Tratamento de notas fiscais, tais como ativação e cancelamento de NCC;</li>
-        <li>Suporte técnico remoto tanto para as lojas da empresa quanto para os escritórios das regionais;</li>
-        <li>Análise de qualidade de rede e contato ao provedor, quando necessário;</li>
-        <li>Suporte presencial para os equipamentos do escritório matriz;</li>
-        <li>Atendimento de chamados abertos tanto pelos colaboradores do time de lojas quanto pelos
-        colaboradores de escritório;</li>
-        <li>Manutenção de aparelhos, executado tarefas como limpeza, troca de pasta térmica, restauração do sistema operacional, instalação de disco rígido para backup, etc.;</li>
-        <li>Criação de perfis de usuários para colaboradores recém-chegados ou para aqueles que realizaram uma solicitação prévia a uma determinada plataforma;</li>
-        <li>Instalação do sistema interno para avaliação do desempenho de lojas;</li>
-        <li>Instalação de impressoras e manutenção das mesmas, quando necessário;</li>
-        <li>Suporte remoto para aparelhos de rede em loja, como switch, ONU, firewall, servidores
-        e roteadores.</li>
+        <li>Processing of packing slip, such as activation and cancellation of NCC;</li>
+        <li>Granting access to users due to change of duties or promotion to a new position/department;</li>
+        <li>Remote technical support for both company stores and regional offices;</li>
+        <li>Isolation and appropriate measures for computers suspected of malware infection or unknown activity;</li>
+        <li>Network quality analysis and contact with the provider, when necessary;</li>
+        <li>On-site support for headquarters office equipment;</li>
+        <li>Handling of tickets opened by both store team employees and office employees;</li>
+        <li>Device maintenance, performing tasks such as cleaning, replacing thermal paste, restoring the operating system, installing a hard drive for backup, etc.;</li>
+        <li>Creation of user profiles for new employees or those who have previously submitted a request to a specific platform;</li>
+        <li>Installation and configuration of an internal system developed in-house to evaluate store performance;</li>
+        <li>Monitoring of machines to improve performance by replacing hardware or upgrading the operating system;</li>
+        <li>Installation of printers and maintenance thereof, when necessary;</li>
+        <li>Configuration of new punching machines for stores;</li>
+        <li>Scanning IP addresses for possible negotiations, such as identifying equipment operating with an active web server or locating hostnames.;</li>
+        <li>Remote support for in-store network devices such as switches, ONUs, firewalls, servers, and routers.</li>
     </ul>
     <p>
         <b>
             Used tools:
         </b>
         <ul>
-            <li>WhatsApp Business;</li>
-            <li>LINX ITEC;</li>
-            <li>Microsoft Office 365;</li>
-            <li>VTEX;</li>
-            <li>Portal Cosmos Pro;</li> 
-            <li>Suporte iFood;</li>
-            <li>Ubuntu 22.04;</li>
-            <li>PgAdmin4;</li>
-            <li>Team Viewer;</li>
             <li>AnyDesk;</li>
-            <li>Nagios;</li>
             <li>Bitdefender GravityZone;</li>
-            <li>Família de tecnologias Fortinet;</li>
+            <li>Fortinet family of technologies;</li>
             <li>GLPI;</li>
+            <li>Hiren’s BootCD.</li>
+            <li>iFood Support;</li>
+            <li>ITEC LINX;</li>
+            <li>Lazesoft Recovery Suite;</li>
+            <li>Microsoft Office 365;</li>
+            <li>Nagios;</li>
+            <li>Nmap;</li>
+            <li>PaloAlto Cortex XDR;</li>
+            <li>PgAdmin4;</li>
+            <li>Portal Cosmos Pro;</li> 
             <li>Python;</li>
             <li>Senior;</li>
-            <li>Hiren’s BootCD.</li>
+            <li>Team Viewer;</li>
+            <li>Ubuntu 22.04;</li>
+            <li>VTEX;</li>
+            <li>WhatsApp Business;</li>
         </ul>
     </p>
 <div>
