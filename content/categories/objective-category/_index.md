@@ -1,6 +1,6 @@
 ---
 title: Objective
-description: A description of this category
+description: This is the Objective Category.
 image:
 
 # Badge style
