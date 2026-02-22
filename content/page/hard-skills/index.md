@@ -11,11 +11,12 @@ menu:
             icon: archives
 categories:
     - skills-category
+    - studies-category
 ---
 
 In this section, it is possible to find a comprehensive list of my technical skills and proficiencies, from software tools to specialized industry practices, that define professional capabilities.
 
-> ### Backend Tools
+### Backend Tools
 <ul>
     <li>
         <a href="https://www.djangoproject.com/start/overview/" target=_blank>
@@ -40,19 +41,19 @@ In this section, it is possible to find a comprehensive list of my technical ski
 <ul>
     <li>
         <a href="https://nextjs.org/docs" target=_blank>
-            Ruby on Rails;
+            Next.js;
         </a>
     </li>
 </ul>
 <ul>
     <li>
         <a href="https://nextjs.org/docs" target=_blank>
-            Next.js.
+            Ruby on Rails.
         </a>
     </li>
 </ul>
 
-> ### Database
+### Database
 <ul>
     <li>
         <a href="https://www.mongodb.com/products/platform" target=_blank>
@@ -71,7 +72,7 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Development Tools
+### Development Tools
 <ul>
     <li>
         <a href="https://github.com/GIT" target=_blank>
@@ -90,7 +91,7 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Frontend Tools
+### Frontend Tools
 <ul>
     <li>
         <a href="https://flutter.dev/development" target=_blank>
@@ -134,7 +135,7 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Information Security
+### Information Security
 <ul>
     <li>
         <a href="https://www.ettercap-project.org/" target=_blank>
@@ -158,13 +159,13 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Metodology
+### Metodology
 <ul>
     <li>Agile;</li>
     <li>Scrum.</li>
 </ul>
 
-> ### Operating System
+### Operating System
 <ul>
     <li>
         <a href="/" target=_blank>
@@ -188,7 +189,7 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Programming Languages
+### Programming Languages
 <ul>
     <li>
         <a href="https://www.bloodshed.net/Free-compilers-list" target=_blank>
@@ -232,13 +233,13 @@ In this section, it is possible to find a comprehensive list of my technical ski
     </li>
 </ul>
 
-> ### Technical Support
+### Technical Support
 <ul>
-    <li>Computer Networking;</li>
-    <li>Computer Maintenance.</li>
+    <li>Computer Maintenance;</li>
+    <li>Computer Networking.</li>
 </ul>
 
-> ### Others
+### Others
 <ul>
     <li>
         Copywritting;

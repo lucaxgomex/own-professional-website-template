@@ -15,166 +15,199 @@ categories:
 
 In this section, you'll be able to learn about my past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.
 
+# Toinho Atacadista
+
 <div>
-    <h1>
-        Toinho Atacadista | Stocktaker
-    </h1>
+    <b>Position:</b> Stocktaker
+    <br>
+    <b>Period of Activity:</b> April/2016 - June/2018
     <p>
-        April/2016 - June/2018
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Recebimento de produtos oriundos da distribuidora;</li>
-        <li>Organização de produtos de acordo com sua classificação;</li>
-        <li>Substituição de produtos danificados e/ou vencidos;</li>
-        <li>Limpeza geral do ambiente de trabalho diariamente;</li>
-        <li>Sangria do caixa quando o operador encontrara-se ausente;</li>
-        <li>Atendimento e recebimento de clientes, sobretudo aqueles com deficiência motora.</li>
+        <li>Receipt of products from the distributor;</li>
+        <li>Organization of products according to their classification;</li>
+        <li>Replacement of damaged and/or expired products;</li>
+        <li>General cleaning of the workplace every day;</li>
+        <li>Cash shortage when the operator was absent;</li>
+        <li>Customer service and reception, especially for those with physical disabilities.</li>
     </ul>
     <p>
         <b>
-            Ferramentas utilizadas:
+            Used tools:
         </b>
         <ul>
             <li>Datacaixa PDV.</li>
         </ul>
     </p>
 <div>
+
 <hr>
+
+# Private Tuition
+
 <div>
-    <h1>
-        Ensino Particular | Professor Matemática e Redação
-    </h1>
+    <b>Position:</b> Mathematics and Essay Teacher
+    <br>
+    <b>Period of Activity:</b> August/2018 - November/2018
     <p>
-        August/2018 - November/2018
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Introdução ao pensamento lógico e abstração de conceitos matemáticos;</li>
-        <li>Revisão de operações básicas;</li>
-        <li>Resolução de questões da própria instituição;</li>
-        <li>Resolução de questões de vestibulares (Fuvest, Unicamp, ITA, etc.);</li>
-        <li>Apresentação de estruturas para um texto de redação;</li>
-        <li>Correção de redações segundo critérios avaliativos disponibilizados pelo MEC - Ministério da Educação;</li>
-        <li>Dicas de leitura de materiais de abordagem sociocultural.</li>
+        <li>Introduction to logical thinking and abstraction of mathematical concepts;</li>
+        <li>Review of basic operations;</li>
+        <li>Resolution of issues within the institution itself;</li>
+        <li>Resolution of college entrance exame questions (Fuvest, Unicamp, ITA, etc.);</li>
+        <li>Presentation of strutures of an essay text;</li>
+        <li>Correction of essays according to evaluation criteria provided by MEC - Ministério da Educação;</li>
+        <li>Tips for reading sociocultural approach materials.</li>
     </ul>
     <p>
         <b>
-            Ferramentas utilizadas:
+            Used tools:
         </b>
         <ul>
+            <li>Descomplica;</li>
             <li>Estante Virtual;</li>
             <li>Kahoot;</li>
-            <li>Photomath;</li>
-            <li>Descomplica.</li>
+            <li>Photomath.</li>
         </ul>
     </p>
 <div>
+
 <hr>
+
+# Quality Mais Service
+
 <div>
-    <h1>
-        Quality Mais Service | Analista de Contrato
-    </h1>
+    <b>Position:</b> Contract Analyst
+    <br>
+    <b>Period of Activity:</b> November/2019 - April/2020
     <p>
-        Novembro/2019 - Abril/2020
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Análise de contrato de clientes no segmento de consignado;</li>
-        <li>Lançamento de todos os dados no sistema empresarial interno e monitoramento dos mesmos.</li>
+        <li>Analysis of customer contracts in the payroll loan segment;</li>
+        <li>Entering all data into the internal business system and monitoring it.</li>
     </ul>
     <p>
         <b>
-            Ferramentas utilizadas:
+            Used tools:
         </b>
         <ul>
             <li>Microsoft Office 365.</li>
         </ul>
     </p>
 <div>
+
 <hr>
+
+# ORA Serviços de Telecomunicações Ltda.
+
 <div>
-    <h1>
-        ORA Serviços de Telecomunicações Ltda. | Suporte Técnico de Redes
-    </h1>
+    <b>Position:</b> Network Technical Support
+    <br>
+    <b>Period of Activity:</b> March/2021 - May/2021
+    <br>
+    <b>Addictional Observation:</b> Internship
     <p>
-        Março/2021 - Maio/2021
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Designação ao setor de Atendimento Residencial, através do qual fora possível identificar a problemática dos clientes envolvendo a conectividade de seus respectivos aparelhos;</li>
-        <li>Tratativa de chamados abertos através da central de atendimento;</li>
-        <li>Análise da qualidade de rede e execução de testes de conexão;</li>
-        <li>Acionamento de realização de suporte presencial;</li>
-        <li>Solicitação de troca de equipamentos como conversor de fibra e roteador de rede Wi-Fi;</li>
-        <li>Configuração de redes Wi-Fi de acordo com a solicitação dos clientes.</li>
+        <li>Assignment to the Residential Customer Service department, through which it was possible to identify customer issues involving the connectivity of their respective devices;</li>
+        <li>Handling of open calls through the call center;</li>
+        <li>Network quality analysis and connection testing;</li>
+        <li>Triggering of on-site support;</li>
+        <li>Request for replacement of equipment such as fiber converter and Wi-Fi network router;</li>
+        <li>Configuring Wi-Fi networks according to customer requests.</li>
     </ul>
     <p>
         <b>
-            Ferramentas utilizadas:
+            Used tools:
         </b>
         <ul>
+            <li>Administrator access for routers;</li>
+            <li>AnyDesk;</li>
             <li>GLPI;</li>
-            <li>AnyDesk</li>
-            <li>PuTTY;</li>
-            <li>Acesso via administrador para roteadores.</li>
+            <li>PuTTY.</li>
         </ul>
     </p>
 <div>
+
 <hr>
+
+# Construtora Andrade Júnior
+
 <div>
-    <h1>
-        Construtora Andrade Júnior | Assistente Administrativo
-    </h1>
+    <b>Position:</b> Administrative Assistant
+    <br>
+    <b>Period of Activity:</b> July/2021
+    <br>
+    <b>Addictional Observation:</b> Trial Period
     <p>
-        Julho/2021
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Designação de recebimento de ligações para os ramais do time de arquitetos solicitados;</li>
-        <li>Averiguação do custo de insumos necessários para as obras no sistema interno corporativo</li>
-        <li>Preenchimento de planilhas através de documentos pré-enviados pelo time de arquitetos alimentadas com os valores referentes ao gasto das obras.</li>
+        <li>Designation of call reception for the extensions of the requested team of architects;</li>
+        <li>Investigation of the cost of inputs needed for work on the internal corporate system;</li>
+        <li>Technical repair of incidents involving the company's machines, when requested;</li>
+        <li>Filling out spreadsheets using documents sent in advance by the team of architects, filled with the values relating to the cost of the works.</li>
     </ul>
 <div>
+
 <hr>
+
+# Empreendimentos Farmacêuticos Globo Ltda.
+
 <div>
-    <h1>
-        Empreendimentos Farmacêuticos Globo Ltda. | Auxiliar de Suporte Técnico Pleno
-    </h1>
+    <b>Position:</b> Auxiliar de Suporte Técnico Pleno
+    <br>
+    <b>Period of Activity:</b> January/2022 - February/2026
     <p>
-        Janeiro/2022 - Presente
+        <b>Activities:</b>
     </p>
     <ul>
-        <li>Tratamento de notas fiscais, tais como ativação, cancelamento e NCC;</li>
-        <li>Suporte técnico remoto tanto para as lojas da empresa quanto para os escritórios das regionais;</li>
-        <li>Análise de qualidade de rede e contato ao provedor, quando necessário;</li>
-        <li>Suporte presencial para os equipamentos do escritório matriz;</li>
-        <li>Atendimento de chamados abertos tanto pelos colaboradores do time de lojas quanto pelos
-        colaboradores de escritório;</li>
-        <li>Manutenção de aparelhos, executado tarefas como limpeza, troca de pasta térmica, restauração do sistema operacional, instalação de disco rígido para backup, etc.;</li>
-        <li>Criação de perfis de usuários para colaboradores recém-chegados ou para aqueles que realizaram uma solicitação prévia a uma determinada plataforma;</li>
-        <li>Instalação do sistema interno para avaliação do desempenho de lojas;</li>
-        <li>Instalação de impressoras e manutenção das mesmas, quando necessário;</li>
-        <li>Suporte remoto para aparelhos de rede em loja, como switch, ONU, firewall, servidores
-        e roteadores.</li>
+        <li>Processing of packing slip, such as activation and cancellation of NCC;</li>
+        <li>Granting access to users due to change of duties or promotion to a new position/department;</li>
+        <li>Remote technical support for both company stores and regional offices;</li>
+        <li>Isolation and appropriate measures for computers suspected of malware infection or unknown activity;</li>
+        <li>Network quality analysis and contact with the provider, when necessary;</li>
+        <li>On-site support for headquarters office equipment;</li>
+        <li>Handling of tickets opened by both store team employees and office employees;</li>
+        <li>Device maintenance, performing tasks such as cleaning, replacing thermal paste, restoring the operating system, installing a hard drive for backup, etc.;</li>
+        <li>Creation of user profiles for new employees or those who have previously submitted a request to a specific platform;</li>
+        <li>Installation and configuration of an internal system developed in-house to evaluate store performance;</li>
+        <li>Monitoring of machines to improve performance by replacing hardware or upgrading the operating system;</li>
+        <li>Installation of printers and maintenance thereof, when necessary;</li>
+        <li>Configuration of new punching machines for stores;</li>
+        <li>Scanning IP addresses for possible negotiations, such as identifying equipment operating with an active web server or locating hostnames.;</li>
+        <li>Remote support for in-store network devices such as switches, ONUs, firewalls, servers, and routers.</li>
     </ul>
     <p>
         <b>
-            Ferramentas utilizadas:
+            Used tools:
         </b>
         <ul>
-            <li>WhatsApp Business;</li>
-            <li>LINX ITEC;</li>
-            <li>Microsoft Office 365;</li>
-            <li>VTEX;</li>
-            <li>Portal Cosmos Pro;</li> 
-            <li>Suporte iFood;</li>
-            <li>Ubuntu 22.04;</li>
-            <li>PgAdmin4;</li>
-            <li>Team Viewer;</li>
             <li>AnyDesk;</li>
-            <li>Nagios;</li>
             <li>Bitdefender GravityZone;</li>
-            <li>família de tecnologias Fortinet;</li>
+            <li>Fortinet family of technologies;</li>
             <li>GLPI;</li>
+            <li>Hiren’s BootCD.</li>
+            <li>iFood Support;</li>
+            <li>ITEC LINX;</li>
+            <li>Lazesoft Recovery Suite;</li>
+            <li>Microsoft Office 365;</li>
+            <li>Nagios;</li>
+            <li>Nmap;</li>
+            <li>PaloAlto Cortex XDR;</li>
+            <li>PgAdmin4;</li>
+            <li>Portal Cosmos Pro;</li> 
             <li>Python;</li>
             <li>Senior;</li>
-            <li>Hiren’s BootCD.</li>
+            <li>Team Viewer;</li>
+            <li>Ubuntu 22.04;</li>
+            <li>VTEX;</li>
+            <li>WhatsApp Business;</li>
         </ul>
     </p>
 <div>
