@@ -19,7 +19,7 @@ subtitle = "Software engineer | Cybersecurity enthusiast | Secure systems builde
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/profile.png"
 
 [article]
 headingAnchor = false
