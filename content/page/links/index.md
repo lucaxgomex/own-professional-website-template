@@ -11,7 +11,7 @@ links:
     image: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-256.png
 
   - title: GitHub
-    website: https://github.com/lucaxgomex
+    website: https://github.com/hexthersync32
     image: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png
 
   - title: HackerRank
@@ -19,7 +19,7 @@ links:
     image: https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/670ee06a416476e6459b791a_LogoDark.svg
   
   - title: LeetCode
-    website: https://leetcode.com/
+    website: https://leetcode.com/u/hexthersync32/
     image: https://leetcode.com/static/images/LeetCode_logo_rvs.png
   
   - title: LinkedIn
@@ -27,7 +27,7 @@ links:
     image: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png
 
   - title: Medium
-    website: https://medium.com/@gomeslucastech
+    website: https://medium.com/@hexthersync32
     image: https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png
 
 menu:
