@@ -2,7 +2,7 @@
 
 title: Welcome To My Professional Website!
 
-description: Information Technology professional focused on developing innovative and efficient solutions, seeking to contribute to the growth of the organization through the application of knowledge in software development, project management, technical support, and optimization of technological processes. Committed to excellence, organization, teamwork, and delivering high-impact results.
+description: Information Technology professional focused on developing innovative and efficient solutions, seeking to contribute to the growth of the organization through the application of knowledge in software development, process optimization, information security, and technical support adaptable to the company's requirements. Committed to excellence, organization, teamwork, and the delivery of high-impact results.
 
 slug: hello-world
 

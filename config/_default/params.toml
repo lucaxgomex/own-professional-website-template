@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2020
-customText = "Number of visitors until now: 789"
+customText = "Number of visitors until now: 841"
 
 [dateFormat]
 published = "Jan 02, 2006"
