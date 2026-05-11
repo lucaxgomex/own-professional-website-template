@@ -34,7 +34,7 @@ In this section, you'll be able to learn about my past professional roles, highl
     </ul>
     <p>
         <b>
-            Used tools:
+            Roles:
         </b>
         <ul>
             <li>Datacaixa PDV.</li>
@@ -44,14 +44,14 @@ In this section, you'll be able to learn about my past professional roles, highl
 
 <hr>
 
-# Private Tuition
+# Self-Employment
 
 <div>
-    <b>Position:</b> Mathematics and Essay Teacher
+    <b>Position:</b> Mathematics and Essay Private Teacher
     <br>
     <b>Period of Activity:</b> August/2018 - November/2018
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
         <li>Introduction to logical thinking and abstraction of mathematical concepts;</li>
@@ -83,18 +83,23 @@ In this section, you'll be able to learn about my past professional roles, highl
     <b>Position:</b> Contract Analyst
     <br>
     <b>Period of Activity:</b> November/2019 - April/2020
+    <br>
+    <b>Addictional Observation:</b> Internship
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
         <li>Analysis of customer contracts in the payroll loan segment;</li>
-        <li>Entering all data into the internal business system and monitoring it.</li>
+        <li>Entering contract data into the internal business system and monitoring it for any changes;</li>
+        <li>Technical repairs for issues involving the company's machinery, when then requested;</li>
+        <li>Reporting to management regarding contract amounts that exceeded the per-customer limit.</li>
     </ul>
     <p>
         <b>
             Used tools:
         </b>
         <ul>
+            <li>Cobmais;</li>
             <li>Microsoft Office 365.</li>
         </ul>
     </p>
@@ -111,7 +116,7 @@ In this section, you'll be able to learn about my past professional roles, highl
     <br>
     <b>Addictional Observation:</b> Internship
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
         <li>Assignment to the Residential Customer Service department, through which it was possible to identify customer issues involving the connectivity of their respective devices;</li>
@@ -129,7 +134,8 @@ In this section, you'll be able to learn about my past professional roles, highl
             <li>Administrator access for routers;</li>
             <li>AnyDesk;</li>
             <li>GLPI;</li>
-            <li>PuTTY.</li>
+            <li>PuTTY;</li>
+            <li>SimSwitch.</li>
         </ul>
     </p>
 <div>
@@ -145,14 +151,24 @@ In this section, you'll be able to learn about my past professional roles, highl
     <br>
     <b>Addictional Observation:</b> Trial Period
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
-        <li>Designation of call reception for the extensions of the requested team of architects;</li>
-        <li>Investigation of the cost of inputs needed for work on the internal corporate system;</li>
-        <li>Technical repair of incidents involving the company's machines, when requested;</li>
-        <li>Filling out spreadsheets using documents sent in advance by the team of architects, filled with the values relating to the cost of the works.</li>
+        <li>Preparation of financial forecasts for contracts based on measurement reports;</li>
+        <li>Assigning incoming calls to the designated extensions of the architecture team and scheduling meetings for the internal team;</li>
+        <li>Determining the cost of materials needed for construction projects within the internal corporate system;</li>
+        <li>Analysis of CTS based on the project costs and the contract closing date on a monthly basis;</li>
+        <li>Writing off PPCs that might be available for payment;</li>
+        <li>Notify the Accounts Payable department of the due date, creditor, and cost center along with the amounts for materials and labor.</li>
     </ul>
+    <p>
+        <b>
+            Used tools:
+        </b>
+        <ul>
+            <li>Sienge ERP.</li>
+        </ul>
+    </p>
 <div>
 
 <hr>
@@ -160,11 +176,11 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Empreendimentos Farmacêuticos Globo Ltda.
 
 <div>
-    <b>Position:</b> Auxiliar de Suporte Técnico Pleno
+    <b>Position:</b> Senior Technical Support Specialist
     <br>
     <b>Period of Activity:</b> January/2022 - February/2026
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
         <li>Processing of packing slip, such as activation and cancellation of NCC;</li>

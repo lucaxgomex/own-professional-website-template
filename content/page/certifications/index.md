@@ -39,4 +39,6 @@ To use this feature, the image must be in the same directory as the Markdown fil
 
 ![Vida Próspera | August 10th, 2025](img/06.png)
 
+![Jornada Python | March 3rd, 2026](img/07.png)
+
 <!-- > Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/) -->
