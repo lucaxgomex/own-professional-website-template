@@ -22,7 +22,7 @@ In this section, you'll be able to learn about my past professional roles, highl
     <br>
     <b>Period of Activity:</b> April/2016 - June/2018
     <p>
-        <b>Activities:</b>
+        <b>Roles:</b>
     </p>
     <ul>
         <li>Receipt of products from the distributor;</li>
@@ -34,7 +34,7 @@ In this section, you'll be able to learn about my past professional roles, highl
     </ul>
     <p>
         <b>
-            Roles:
+            Used tools:
         </b>
         <ul>
             <li>Datacaixa PDV.</li>
