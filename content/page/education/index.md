@@ -13,14 +13,9 @@ categories:
     - education-category
 ---
 
-In this section, you'll be able to view details of my academic achievements, including degrees, institutions, and specialized training, reflecting a commitment to continuous learning.
+In this section, you'll be able to view details of my academic achievements so far, including degrees, institutions, and specialized training, reflecting a commitment to continuous learning.
 
 <div>
-    <center>
-        <a href="https://www.ifpi.edu.br/catalogo-de-cursos/cursos-superiores" target=_blank>
-            <img src="https://www.ifpi.edu.br/topo_ifpi.png" alt="Girl in a jacket">
-        </a>
-    </center>
     <h1>
         Systems Analysis and Development
     </h1>
